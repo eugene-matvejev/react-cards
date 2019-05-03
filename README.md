@@ -9,7 +9,7 @@ as a magician, I'd like to shuffle, draw and sort cards so that I can perform ma
 - can I draw any given number of cards from the deck, and then sort the drawn cards, with the cards being removed from the original deck?
 - sorted cards are sorted by suit: clubs, spades, hearts, diamonds; then by value: ace is highest.
 
-### back of card (technical constraints): 
+### back of card (technical constraints)
 - simple User Interface is fine – though we’d love to see what you’re capable of!
 - use best in industry engineering practices. 
 - ensure that your code is well tested. Guidance Please provide us with build/test/run instructions as well as the codebase, preferably via [github](https://github.com). 
